@@ -1,0 +1,84 @@
+ТЕЛЕФОН
+
+"+79000000001"
+"+7 900 000 00 01"
+"    +7       9 00   0  00 00 0  1    "
+"80000000001"
+"8 900 0000 001"
+"+375001112233"
+"+77761112233"
+"+7109986519035"
+"+3737901111111"
+89000000001
+"+7900000001"
+"+790000000010"
+"+00000000000"
+"+7900000004+"
+"testTEST"
+"' having 1=1--"
+null
+""
+" "
+
+
+INPUT
+
+
+"Тест"
+"ТЕСТ te TEST "
+"  мНоГо   Пro Be     lo vv        "
+"Тест-Оглы-Ali"
+"Тест_Оглы_Ali"
+"   DЙF   дLswЯ 6  860№;'?@%صسغذئآ龍門大酒<script>alert('Вы взломаны!')</script>秋瑞<IMG src='#'>'); test' OR 1=1 # ; -- ☺️☻♥️♦️♣️♠️•◘"
+"Предельное255симвИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлереринноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевеоятнвер"
+"1"
+"ф"
+"' having 1=1--"
+"Тест-Оглы-Ali"
+"Тест_Оглы_Ali"
+null
+""
+" "
+"256	СИМ	ВОЛОВДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлинноеИмяНевероятноДлыы1"
+
+
+
+ПОЧТА
+
+"test_email@gmail.com"
+"test_email2@gmail1.com"
+"EMAIL@GMAIL.ORG"
+"test-email@g-mail.co-m"
+"ПОЧТА@ТЕСТ.РФ"
+"255symrgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgt1@morgorgorgorgorgorgorgorgorgail.orgorgorgorgorgorgororgorgorgorgorgorgorggogorgorgorgorgorgorgorgorgggg"
+"1@1.r"
+"m@ц.Ы"
+"test1@.org"
+"test1@mail."
+"' having 1=1--"
+"@mail.org"
+"test1@.org"
+"test1@mail."
+"test1@mail ru"
+"test1@mail-ru"
+"test1@.org"
+"test1@ mail.org"
+"test1mail.org"
+"test1@ mail .org"
+"256symrgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgorgt1@morgorgorgorgorgorgorgorgorgail.orgorgorgorgorgorgororgorgorgorgorgorgorggogorgorgorgorgorgorgorgorggggA"
+""
+" "
+
+
+
+
+
+
+
+
+<script>alert( 'Привет, мир!' );</script>
+
+
+https://us02web.zoom.us/j/82169112294?pwd=dlhKRTBGZzF1ektSbVZJVXArcFNKUT09
+
+https://skillfactoryschool.typeform.com/to/wY5lRTGh?typeform-source=www.google.com
